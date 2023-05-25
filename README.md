@@ -41,7 +41,7 @@ Follow the instructions provided in the notebook to preprocess the data, train t
 
 ## Dataset
 
-The dataset used in this project can be found at example.com/dataset. It consists of credit card transactions with labeled fraud and non-fraud instances. The dataset should be in CSV format, with each row representing a transaction and columns containing relevant information such as transaction amount, merchant details, and transaction timestamp.
+The dataset used in this project can be found on Kaggle. It consists of credit card transactions with labeled fraud and non-fraud instances. The dataset should be in CSV format, with each row representing a transaction and columns containing relevant information such as transaction amount, merchant details, and transaction timestamp.
 
 ## Model Training
 
